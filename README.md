@@ -84,16 +84,16 @@ endmodule
 ![Screenshot 2024-12-17 132752](https://github.com/user-attachments/assets/232cd131-02eb-4b58-90a5-df7842bb1894)
 
 
-**RTL realization Output:** 
-![Screenshot 2024-12-17 132803](https://github.com/user-attachments/assets/9b748477-27e7-4652-92b2-a9012391da10)
 
-
-
-**RTL**
-
+**RTL **
 
 ![Screenshot 2024-12-17 132808](https://github.com/user-attachments/assets/72317d0a-4269-4be2-b2e3-5feb86902f8d)
 
+
+
+**RTL realization Output:** 
+
+![Screenshot 2024-12-17 132803](https://github.com/user-attachments/assets/9b748477-27e7-4652-92b2-a9012391da10)
 
 **Result:**
 
